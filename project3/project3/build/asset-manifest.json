@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.03fa1fcd.css",
+    "main.js": "/static/js/main.3c71bd6e.js",
+    "static/js/453.b29983da.chunk.js": "/static/js/453.b29983da.chunk.js",
+    "static/media/box-cricket.mp4": "/static/media/box-cricket.f8918463680051db88ca.mp4",
+    "static/media/truf.png": "/static/media/truf.a7f34ac117fdddf73450.png",
+    "static/media/contact.png": "/static/media/contact.a356f5ee88fdf183b4b5.png",
+    "static/media/box-cricket.png": "/static/media/box-cricket.b3782973146731497303.png",
+    "static/media/artficial.jpg": "/static/media/artficial.8cc5f143bb57b69b2b48.jpg",
+    "static/media/about.png": "/static/media/about.f6dfa5ecc0e8b3ade60b.png",
+    "static/media/about2.png": "/static/media/about2.fbde24a93649a5827c12.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/CricOnGrass-Nav.png": "/static/media/CricOnGrass-Nav.dd5282289e900417c428.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/profile.png": "/static/media/profile.5a66bbde93e770abd999.png",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "index.html": "/index.html",
+    "main.03fa1fcd.css.map": "/static/css/main.03fa1fcd.css.map",
+    "main.3c71bd6e.js.map": "/static/js/main.3c71bd6e.js.map",
+    "453.b29983da.chunk.js.map": "/static/js/453.b29983da.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03fa1fcd.css",
+    "static/js/main.3c71bd6e.js"
+  ]
+}
